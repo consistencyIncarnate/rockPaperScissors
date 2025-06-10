@@ -1,1 +1,1 @@
-# rockPaperScissors
+This project is about creating a rock paper scissors game, played with a computer in the console only, for now.
