@@ -6,7 +6,14 @@ function getComputerChoice() {
     let randomVal = Math.floor(Math.random() * 3);
     return choice[randomVal];
 }
-
 // Get user input
+function getHumanChoice() {
+    let input = prompt("Please enter your choice:");
+    return input;
+}
+// Global storage for player scores
+let humanScore = 0;
+let computerScore = 0;
 // Play one round 
+
 // Play whole game (BO3) 
